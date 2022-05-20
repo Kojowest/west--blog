@@ -1,0 +1,16 @@
+{
+  "expo": {
+    "name": "edward-blog",
+    "slug": "edward-blog",
+    "version": "1.0.0",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover",
+      "backgroundColor": "#F66B0E"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+  
+}
